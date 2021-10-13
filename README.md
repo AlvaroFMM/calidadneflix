@@ -18,3 +18,14 @@ En el siguiente trabajo nos enfocamos en las siguiente funcionalidades
 # REGISTRO DE FORMA DE PAGO
 
 ![image](https://user-images.githubusercontent.com/78560599/137050976-6193ddbb-4d27-4482-b1ab-e14ad1977707.png)
+
+# CONTROL PARENTAL DE NETFLIX
+![image](https://user-images.githubusercontent.com/78560599/137217389-9bf9cb4f-6eca-4c61-a2b8-4895e33b27bd.png)
+# GESTION DE DISPOSITIVOS DE DESCARGA DE NETFLIX
+![image](https://user-images.githubusercontent.com/78560599/137217517-37933842-7035-40fc-b266-920ce20ccdb6.png)
+
+# USO DE DATOS DE CELULARES
+![image](https://user-images.githubusercontent.com/78560599/137217584-f6979819-239c-459b-8e92-efa424d1d4bd.png)
+# CALIDAD DE DESCARGA
+![image](https://user-images.githubusercontent.com/78560599/137217622-3dd557a5-c4c4-4c2b-b307-b546f8e24e88.png)
+
