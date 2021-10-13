@@ -1,0 +1,3 @@
+# calidadneflix
+Este es un software de streaming donde se puede ver peliculas, series, etc...
+En el siguiente trabajo nos enfocamos en las siguiente funcionalidades
